@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "com.uralstech.ugemini": "https://github.com/Uralstech/UGemini.git#upm",
+    "com.uralstech.ucloud.operations": "https://github.com/Uralstech/UCloud.Operations.git#upm",
+    "com.uralstech.utils.singleton": "https://github.com/Uralstech/Utils.Singleton.git#upm",
+    "com.utilities.async": "https://github.com/RageAgainstThePixel/com.utilities.async.git",
+    "com.utilities.encoder.wav": "https://github.com/RageAgainstThePixel/com.utilities.encoder.wav.git"
+  }
+}
