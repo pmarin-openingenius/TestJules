@@ -1,0 +1,20 @@
+{
+  "scopedRegistries": [
+    {
+      "name": "OpenUPM",
+      "url": "https://package.openupm.com",
+      "scopes": [
+        "com.uralstech",
+        "com.utilities",
+        "com.rageagainstthepixel"
+      ]
+    }
+  ],
+  "dependencies": {
+    "com.uralstech.ugemini": "2.2.0",
+    "com.rageagainstthepixel.utilities.async": "3.0.0",
+    "com.rageagainstthepixel.utilities.encoder.wav": "2.0.0",
+    "com.uralstech.ucloud.operations": "1.0.0",
+    "com.uralstech.utils.singleton": "1.0.0"
+  }
+}
